@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.16.0",
     "express-session": "^1.15.6",
-    "session-memory-store": "^0.2.2",
+    "session-memory-store": "^1.0.0",
     "throng": "4.0.0"
   }
 }
